@@ -1,0 +1,1 @@
+console.log("hi every one i am from js file");
